@@ -1,1 +1,1 @@
-# FourthProject
+# Learning SQL basic commands
