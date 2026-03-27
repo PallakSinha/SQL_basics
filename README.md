@@ -1,17 +1,13 @@
-Sales Database Project
-Overview
+## Sales Database Project
+### Overview
 This project demonstrates the creation and management of a Sales Database using SQL.
 It includes:
+- Database schema design (customers, orders, products, order_items tables).
+- Sample data insertion and updates.
+- Queries showcasing joins, grouping, and formatting.
+- A PowerPoint presentation with screenshots of query outputs.
 
-Database schema design (customers, orders, products, order_items tables).
-
-Sample data insertion and updates.
-
-Queries showcasing joins, grouping, and formatting.
-
-A PowerPoint presentation with screenshots of query outputs.
-
-Database Schema
+### Database Schema
 The database consists of four main tables:
 
 customers: Stores customer details (name, email, country).
@@ -22,7 +18,7 @@ products: Contains product information (name, price).
 
 order_items: Links orders to products with quantities.
 
-Features
+### Features
 Create and drop databases.
 
 Insert, update, and delete records.
@@ -34,7 +30,7 @@ Use aggregate functions (COUNT, GROUP BY).
 Format dates for readability.
 
 
-Outputs
+### Outputs
 The PowerPoint File contains screenshots of:
 
 Table creation
