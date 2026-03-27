@@ -71,6 +71,8 @@ SELECT COUNT(customer_id), Country
 FROM customers
 GROUP BY country;
 
+SET SQL_SAFE_UPDATES = 1;
+
 USE sales;
 SELECT order_id,
   DATE_FORMAT(order_date, '%d-%m-%Y') AS readable_date
