@@ -106,6 +106,7 @@ INSERT INTO OrderDetails (OrderID, ProductID) VALUES
 (3, 101), -- Order 3: Laptop
 (3, 104); -- Order 3: Printer
 
+-- o = Orders_3NF, c = Customers, od = OrderDetails, p = Products
 SELECT 
     o.OrderID, 
     c.CustomerName, 
