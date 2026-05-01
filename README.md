@@ -1,4 +1,4 @@
-## Sales Database Project
+## SQL Sales Database
 ### Overview
 This project demonstrates the creation and management of a Sales Database using SQL.
 It includes:
@@ -6,6 +6,7 @@ It includes:
 - Sample data insertion and updates.
 - Queries showcasing joins, grouping, and formatting.
 - A PowerPoint presentation with screenshots of query outputs.
+- Normalization
 
 ### Database Schema
 The database consists of four main tables:
@@ -36,6 +37,9 @@ The PowerPoint File contains screenshots of:
 Table creation
 
 Inserted records
+
+### Normalization
+The SQL file.sql contains normalization applied to Sales database
 
 Query results (joins, grouping, etc.)
 
